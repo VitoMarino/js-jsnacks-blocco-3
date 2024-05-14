@@ -9,5 +9,6 @@ Probabilmente  conviene controllare che il numero di elementi della coda non sia
 
 SCOMPOSIZIONE PROBLEMA
 1. Crea array
+    - Intervallo di numeri casuali da 1 a 100;
 2. Crea prompt per utente.
-3. In base al numero di risposta avuto dall'utente, genera tanti numeri casuali (da 1 a 100)
+3. Genera tanti numeri PER quanti sono gli elementi inseriti

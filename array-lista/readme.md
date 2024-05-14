@@ -18,3 +18,13 @@ SCOMPOSIZIONE PROBLEMA
 4. Creare una condizione nel ciclo. // FATTO!
 
 Nella condizione devo vedere SE il 'cocomero' della variabile è presente nella variabile.
+
+SCOMPOSIZIONE PROBLEMA
+1. Creare array con frutta elencata. // FATTO!
+2. Inserire la pesca. // FATTO!
+3. A partire dal primo cestino, per ogni cestino
+   4. Apro il cestino e controllo cosa c'è all'interno
+   5. SE c'è un cococomero
+      6. stampo: "Trovato! Devo solo preparare il cocktail."
+   7. ALTRIMENTI SE non c'è cocomero
+      8. vado al cestino successivo
