@@ -10,3 +10,11 @@ Fasi
    - se non lo trovo: "Oh no, devo uscire a comprare il cocomero!"
 Suggerimenti/Indicazioni:
 Sì, lo sappiamo che esistono le funzioni includes() e indexOf() ma noi non le vogliamo utilizzare per cercare nel frigorifero.
+
+SCOMPOSIZIONE PROBLEMA
+1. Creare array con frutta elencata. // FATTO!
+2. In una seconda fase inserire la pesca. // FATTO!
+3. Creare un ciclo. // FATTO!
+4. Creare una condizione nel ciclo. // FATTO!
+
+Nella condizione devo vedere SE il 'cocomero' della variabile è presente nella variabile.
