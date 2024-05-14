@@ -1,6 +1,6 @@
-const fruitsNelFrigo = [];
+const fruitsNelFrigo = ['banana', 'mela', 'pera', 'ciliegia', 'arancia', 'mandarino', 'cocomero', 'limone', 'fragola'];
 const fruitsAggiunto = ['pesca'];
-const frutti = fruitsMelFrigo.concat(fruitsAggiunto);
+const frutti = fruitsNelFrigo.concat(fruitsAggiunto);
 let hoTrovatoIlCocomero = false;
 
 for (let i = 0; i < frutti.length; i++) {
