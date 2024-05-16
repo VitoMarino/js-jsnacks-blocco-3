@@ -6,7 +6,7 @@
 const utenteParole = (2)
 
 function utenteParole (numero) {
-    const utente = prompt('Scrivi parola') * numero
+    const utente = prompt('Scrivi parola') * numero;
     
     if (utente.lenght === utente.lenght) {
         console.log(utente, utente)
@@ -16,4 +16,5 @@ function utenteParole (numero) {
         console.log(utente)
     }
 
+    return utente;
 }
