@@ -3,15 +3,17 @@
 // Se hanno la stessa lunghezza, stamparle entrambe altrimenti stampare la più lunga delle due.
 
 
-const numero = (2)
+const utenteParole = (2)
 
 function utenteParole (numero) {
     const utente = prompt('Scrivi parola') * numero
-    if (utente.lenght === utenteDue.lenght) {
-        console.log(utente, utenteDue)
-    } else if (utente.lenght > utenteDue.lenght) {
+    
+    if (utente.lenght === utente.lenght) {
+        console.log(utente, utente)
+    } else if (utente.lenght > utente.lenght) {
         console.log(utente)
     } else {
-        console.log(utenteDue)
+        console.log(utente)
     }
+
 }
