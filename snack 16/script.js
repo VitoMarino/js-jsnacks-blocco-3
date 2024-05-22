@@ -12,4 +12,6 @@ let oggetto = [
 
 const utente = Number.parseInt(prompt('Scrivi peso palla'));
 
+oggetto.peso = utente;
 
+console.log(oggetto, utente)
