@@ -21,3 +21,11 @@
 
 // > Scrivi una funzione che dato un numero inverta le sue cifre: 1234 -> 4321
 
+function inversione (numero) {
+    return (numero.reverse());
+}
+
+inversione(1234);
+const variabile = inversione(1234);
+console.log(variabile, inversione);
+
