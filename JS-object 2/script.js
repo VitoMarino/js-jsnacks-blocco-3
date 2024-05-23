@@ -4,10 +4,17 @@
 // < Infine stampa separatamente i 3 array.
 
 let array = ['autoUno', 'autoDue', 'autoTre', 'autoQuattro', 'autoCinque', 'autoSei', 'autoSette', 'autoOtto', 'autoNove', 'autoDieci', 'autoUndici', 'autoDodici', 'autoTredici', 'autoQuattordici', 'autoQuindici'];
-let auto = [
+
+let oggetto = [
     {
-        marca: 
-        modello:
-        alimentazione:
+        marca: ''
+    }, 
+    
+    {
+        modello: ''
+    },
+
+    {
+        alimentazione: ''
     }
 ]
